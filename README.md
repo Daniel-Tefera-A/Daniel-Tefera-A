@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Tefera</h1>
+<p I'm a software engineering student at Bahir Dar University<p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-tefera-a&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-tefera-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniel-tefera-a" alt="daniel-tefera-a" /></a> </p>
