@@ -1,0 +1,17 @@
+.animated-text {
+    font-size: 36px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff7b00, #ff007b, #007bff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient-animation 3s infinite alternate;
+  }
+
+  @keyframes gradient-animation {
+    from {
+      background-position: 0%;
+    }
+    to {
+      background-position: 100%;
+    }
+  }
