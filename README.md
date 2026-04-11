@@ -21,20 +21,15 @@ Daniel-Tefera-A/Daniel-Tefera-A is a ✨ special ✨ repository because its `REA
 
 ## 🎓 About Me
 
-```python
-class Daniel:
-    def __init__(self):
-        self.name = "Daniel Tefera"
-        self.role = "Software Engineering Student"
-        self.university = "Bahir Dar University"
-        self.interests = ["Web Development", "Machine Learning", "UI/UX Design"]
-        self.currently_learning = ["React", "TensorFlow", "Next.js"]
-        self.collaboration = True
-        self.open_for_work = True
-    
-    def say_hi(self):
-        print("Let's build something amazing together! 🚀")
-```
+<div align="center">
+  
+**Daniel Tefera** | *Software Engineering Student*
+  
+`>_ code.getLife()` → `"Building digital experiences"`
+  
+<img src="https://github-readme-stats.vercel.app/api?username=daniel-tefera-a&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=0d1117&ring_color=ff007b&icon_color=ff007b" width="400" />
+
+</div>
 
 · 🎯 Focus: Building scalable web apps & ML models
 · 🌱 Currently exploring: Full-stack development with AI integration
