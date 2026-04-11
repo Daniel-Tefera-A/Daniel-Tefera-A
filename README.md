@@ -35,6 +35,7 @@ class Daniel:
     
     def say_hi(self):
         print("Let's build something amazing together.")
+```
 
  * **Focus:** Building scalable web applications & machine learning models.
  * **Currently Exploring:** Full-stack development with AI integration.
