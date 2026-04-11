@@ -85,14 +85,15 @@ class Daniel:
   <img src="https://skillicons.dev/icons?i=react,html,css,js,py,cpp,mysql,tensorflow,git,github,figma,vscode" />
 </p>
 
-Languages & Frameworks:
+### Languages & Frameworks:
 
-Category Technologies
-Frontend React.js, HTML5, CSS3, JavaScript
-Backend Node.js (learning), Python
-ML/AI TensorFlow, Scikit-learn, Pandas
-Database MySQL, MongoDB (learning)
-Tools Git, GitHub, VS Code, Figma, Postman
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | React.js, HTML5, CSS3, JavaScript |
+| **Backend** | Node.js (learning), Python |
+| **ML/AI** | TensorFlow, Scikit-learn, Pandas |
+| **Database** | MySQL, MongoDB (learning) |
+| **Tools** | Git, GitHub, VS Code, Figma, Postman |
 
 ---
 
@@ -134,12 +135,13 @@ CSS/Design    ████░░░░░░░░░░░░░   10%
 
 ---
 
-🏆 Featured Projects
+### 🏆 Featured Projects
 
-Project Tech Stack Status Repo
-AI Image Classifier TensorFlow, Python 🔄 In Progress [Coming Soon]
-Portfolio Website React, Framer Motion ✅ Live [View Code]
-E-commerce Clone MERN Stack 🔄 Planning [Coming Soon]
+| Project | Tech Stack | Status | Repo |
+|---------|------------|--------|------|
+| AI Image Classifier | TensorFlow, Python | 🔄 In Progress | Coming Soon |
+| Portfolio Website | React, Framer Motion | ✅ Live | [View Code](#) |
+| E-commerce Clone | MERN Stack | 🔄 Planning | Coming Soon |
 
 ---
 
