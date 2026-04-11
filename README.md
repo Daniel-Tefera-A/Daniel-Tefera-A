@@ -21,19 +21,26 @@ Daniel-Tefera-A/Daniel-Tefera-A is a ✨ special ✨ repository because its `REA
 
 ## 🎓 About Me
 
-<div align="center">
-  
-**Daniel Tefera** | *Software Engineering Student*
-  
-`>_ code.getLife()` → `"Building digital experiences"`
-  
-<img src="https://github-readme-stats.vercel.app/api?username=daniel-tefera-a&show_icons=true&theme=radical&hide_title=true&hide_border=true&bg_color=0d1117&ring_color=ff007b&icon_color=ff007b" width="400" />
-
-</div>
-
+```python
+class Daniel:
+    def __init__(self):
+        self.name = "Daniel Tefera"
+        self.role = "Software Engineering Student"
+        self.university = "Bahir Dar University"
+        self.interests = ["Web Development", "Machine Learning", "UI/UX Design"]
+        self.currently_learning = ["React", "TensorFlow", "Next.js"]
+        self.collaboration = True
+        self.open_for_work = True
+    
+    def say_hi(self):
+        print("Let's build something amazing together! 🚀")
+```
 · 🎯 Focus: Building scalable web apps & ML models
+
 · 🌱 Currently exploring: Full-stack development with AI integration
+
 · 💡 Fun fact: I turn coffee into code ☕ → 💻
+
 · 📧 Reach me: dayuzuel@gmail.com
 
 ---
@@ -64,12 +71,12 @@ Daniel-Tefera-A/Daniel-Tefera-A is a ✨ special ✨ repository because its `REA
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ezhicrch4uh4cyu3zicer2uwee&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ezhicrch4uh4cyu3zicer2uwee&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
 
 <p align="center">
-  <i>🎧 Alternatively, check out my <a href="https://open.spotify.com/user/YOUR_USER_ID">Spotify Profile</a></i>
+  <i>🎧 Alternatively, check out my <a href="https://open.spotify.com/user/31ezhicrch4uh4cyu3zicer2uwee">Spotify Profile</a></i>
 </p>
 
 ---
