@@ -9,7 +9,8 @@ Building digital experiences, one commit at a time.
 <img src="https://img.shields.io/github/followers/daniel-tefera-a?label=Followers&style=flat-square" alt="Followers" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=flat-square" alt="Open to Work" />
 </p>
-## About Me
+
+About Me
 ```python
 class Daniel:
     def __init__(self):
@@ -22,12 +23,12 @@ class Daniel:
     
     def say_hi(self):
         print("Let's build something amazing together.")
-
 ```
- * **Focus:** Building scalable web applications and machine learning models.
- * **Currently Exploring:** Full-stack development with AI integration.
- * **Contact:** dayuzuel@gmail.com
-## Tech Stack
+ • Focus: Building scalable web applications and machine learning models.
+ • Currently Exploring:** Full-stack development with AI integration.
+ • Contact: dayuzuel@gmail.com
+
+Tech Stack
 <p align="left">
 <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,js,py,django,cpp,mysql,tensorflow,git,github,vscode,figma,postman" alt="Tech Stack Icons" />
 </p>
@@ -37,13 +38,15 @@ class Daniel:
 | **Backend** | Python, Django, Node.js |
 | **Data & ML** | TensorFlow, MySQL, Pandas |
 | **Tools** | Git, GitHub, VS Code, Figma, Postman |
-## Featured Projects
+
+Featured Projects
 | Project | Tech Stack | Status |
 |---|---|---|
 | **AI Image Classifier** | TensorFlow, Python | In Progress |
 | **Portfolio Website** | React, Framer Motion | Live |
 | **Project Management Dashboard** | React, Node.js | Live |
-## GitHub Analytics
+
+GitHub Analytics
 <div align="center">
 <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddaniel-tefera-a%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
 <img width="49%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddaniel-tefera-a%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26langs_count%3D6" alt="Top Languages" />
@@ -56,7 +59,8 @@ class Daniel:
 <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/daniel-tefera-a/daniel-tefera-a/output/github-contribution-grid-snake.svg" />
 </picture>
 </div>
-## Connect With Me
+
+Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/daniel-tefera-060052339" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
