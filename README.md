@@ -91,32 +91,20 @@ Activity Graph
 
 ---
 
-Weekly Development Breakdown
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=daniel-tefera-a&theme=radical&layout=compact&langs_count=8" alt="WakaTime Stats" />
+</div>
 
-<!--START_SECTION:waka-->
-
-```text
-React.js      ████████████░░░░░   60%
-Python        ██████░░░░░░░░░░░   30%
-CSS/Design    ████░░░░░░░░░░░░░   10%
-```
-
-<!--END_SECTION:waka-->
-
-Note: This updates automatically based on your WakaTime activity
 
 ---
-Snake animation
 
 <img src="https://github.com/daniel-tefera-a/daniel-tefera-a/blob/output/github-contribution-grid-snake.svg" />
+
 ---
+
 Featured Projects
 
-Project Tech Stack Status
-AI Image Classifier TensorFlow, Python In Progress
-Portfolio Website React, Framer Motion Live
-E-commerce Clone MERN Stack Planning
-
+coming soon...
 ---
 
 Quote
