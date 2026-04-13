@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+About Me
 
 ```python
 class Daniel:
@@ -28,9 +28,10 @@ class Daniel:
 ```
 
  
-Focus Building scalable web applications & ML models
+• Focused on building scalable web applications & ML models
 Currently Full-stack development with AI integration
-Contact dayuzuel@gmail.com
+
+• Contact: dayuzuel@gmail.com
 
 ---
 
@@ -105,7 +106,10 @@ CSS/Design    ████░░░░░░░░░░░░░   10%
 Note: This updates automatically based on your WakaTime activity
 
 ---
+Snake animation
 
+<img src="https://github.com/daniel-tefera-a/daniel-tefera-a/blob/output/github-contribution-grid-snake.svg" />
+---
 Featured Projects
 
 Project Tech Stack Status
