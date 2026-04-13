@@ -91,13 +91,6 @@ Activity Graph
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=daniel-tefera-a&theme=radical&layout=compact&langs_count=8" alt="WakaTime Stats" />
-</div>
-
-
----
-
 <img src="https://github.com/daniel-tefera-a/daniel-tefera-a/blob/output/github-contribution-grid-snake.svg" />
 
 ---
@@ -105,6 +98,7 @@ Activity Graph
 Featured Projects
 
 coming soon...
+
 ---
 
 Quote
