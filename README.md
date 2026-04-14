@@ -60,15 +60,6 @@ Tech Stack
   <img src="https://skillicons.dev/icons?i=react,html,css,js,py,cpp,mysql,tensorflow,git,github,figma,vscode" />
 </p>
 
-Languages & Frameworks
-
-Category Technologies
-Frontend React.js, HTML5, CSS3, JavaScript
-Backend Node.js (learning), Python
-Machine Learning TensorFlow, Scikit-learn, Pandas
-Database MySQL, MongoDB (learning)
-Tools Git, GitHub, VS Code, Figma, Postman
-
 ---
 
 GitHub Analytics
